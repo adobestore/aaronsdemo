@@ -1,4 +1,3 @@
-/* eslint-disable no-underscore-dangle */
 import { events } from '@dropins/tools/event-bus.js';
 import {
   buildBlock,
