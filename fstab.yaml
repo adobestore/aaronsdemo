@@ -1,6 +1,6 @@
 mountpoints:
   /:
-    url: https://content.da.live/adobestore/commercedemo/
+    url: https://content.da.live/adobestore/aaronsdemo/
     type: markup
 
 folders:
