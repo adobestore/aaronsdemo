@@ -169,8 +169,7 @@ async function applyTemplates(doc) {
   }
 }
 
-
-/**
+/*
  * Decorates all sections in a container element.
  * @param {Element} main The container element
  */
@@ -471,9 +470,7 @@ async function loadPage() {
 
 loadPage();
 
-
 export const DA_ORIGIN = 'https://da.live';
-
 (async function loadDa() {
   const { searchParams } = new URL(window.location.href);
 
