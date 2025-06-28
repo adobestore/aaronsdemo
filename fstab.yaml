@@ -1,0 +1,12 @@
+mountpoints:
+  /:
+    url: https://content.da.live/nrkapoor/summit-demo-march-2/
+    type: markup
+
+folders:
+  /products/: /products/default
+  /apparel: /categories/default
+  /office: /categories/default
+  /lifestyle: /categories/default
+  /bags: /categories/default
+  /collections: /categories/default
